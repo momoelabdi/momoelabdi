@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed (Momo)</h1>
-<h3 align="center">A passionate Front-End developer from Switzerland</h3>
+<h3 align="center">A passionate full-stack developer from Switzerland</h3>
 
-- 🔭 I’m looking for my first job **or internship as a Front-End developer**
+- 🔭 I’m looking for my first job **or internship as a Frontend developer**
 
 - 🌱 I’m currently learning **React and node.js**
 
