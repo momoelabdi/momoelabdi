@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking for my first job **or internship as a frontend developer**
 
-- 🌱 I’m currently learning **React and node.js**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
 
