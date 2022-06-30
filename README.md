@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed (Momo)</h1>
-<h3 align="center">A passionate frontend developer from Switzerland</h3>
+<h3 align="center">A passionate developer from Switzerland</h3>
 
-- 🔭 I’m looking for my first job **or internship as a frontend developer**
+- 🔭 I’m looking forward for new adventures.
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learnning **React.js**
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
 
-- 🌎 I speak **French, English and Arabic fluently**
+- 🌎 I speak **French, German, English, and Arabic fluently**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
