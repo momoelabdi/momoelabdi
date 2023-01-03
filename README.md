@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
 
-- 🌎 I speak **French, English, Arabic fluently and intermidate in German**
+- 🌎 I speak **French, English, Arabic fluently, and intermediate in German**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momoelabdi&show_icons=true&locale=en" alt="momoelabdi" /></p>
