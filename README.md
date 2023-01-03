@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed (Momo)</h1>
-<h3 align="center">A passionate developer from Switzerland</h3>
+<h3 align="center">A passionate web developer from Switzerland</h3>
 
-- 🔭 I’m looking forward for new adventures.
+- 🔭 I’m looking forward for new job opportunity.
 
 - 🌱 Constantly working on improving my skills.
 
