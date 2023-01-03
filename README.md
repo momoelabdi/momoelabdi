@@ -3,11 +3,11 @@
 
 - 🔭 I’m looking forward for new adventures.
 
-- 🌱 I’m currently learnning **React.js**
+- 🌱 Constantly working on improving my skills.
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
 
-- 🌎 I speak **French, German, English, and Arabic fluently**
+- 🌎 I speak **French, English, Arabic fluently and intermidate in German**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
