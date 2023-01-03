@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking forward for new job opportunity.
 
-- 🌱 Constantly working on improving my skills.
+- 🌱 I'm constantly working on improving my skills.
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
 
