@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed (Momo)</h1>
 <h3 align="center">A passionate web developer from Switzerland</h3>
 
-- 🔭 I’m looking forward for new job opportunity.
+- 🔭 I’m looking forward for new opportunity to grow.
 
 - 🌱 I'm constantly working on improving my skills.
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
 
-- 🌎 I speak **French, English, Arabic fluently, and intermediate in German**
+- 🌎 I speak **French, English and Arabic fluently, and intermediate in German**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
