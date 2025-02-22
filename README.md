@@ -1,6 +1,5 @@
 #            Hi there 👋, I am Mohammed 
 
----
 
 A Software Developer with experience in building scalable
 systems, APIs, and micro-services, combined with DevOps expertise in
