@@ -5,7 +5,7 @@
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
 
-- 🌎 I speak **French, English and Arabic fluently, and intermediate in German**
+- 🌎 I speak ** English and French fluently, and have an intermediate level of German.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
