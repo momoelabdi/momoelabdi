@@ -13,7 +13,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,postgres,cs,aws,docker,kubernetes,jenkins,terraform,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,kubernetes,jenkins,aws,terraform,ruby,postgres,cs)](https://skillicons.dev)
 
 
 
