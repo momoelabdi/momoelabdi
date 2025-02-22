@@ -7,10 +7,8 @@
 
 - 🌎 I speak **English and French fluently, and have an intermediate level of German.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-elabdi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-elabdi" height="30" width="40" /></a>
-</p>
+[![Connect with me:](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://mylinkedin)
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,ruby,docker,kubernetes,helm,terraform,argocd,jenkins,aws,postgres,cs,js,git)
