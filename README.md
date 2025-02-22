@@ -1,4 +1,4 @@
-###            Hi there 👋, I am Mohammed 
+##            Hi there 👋, I am Mohammed 
 
 ---
 
@@ -9,13 +9,13 @@ Infrastructure as Code (IaC)
 
 ---
 
-## Connect with me:</h2>
+### Connect with me:</h2>
 
 [![Connect with me:](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-elabdi/)
 
 
 ---
-## Languages and Tools:
+### Languages and Tools:
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,ruby,docker,kubernetes,helm,terraform,argocd,jenkins,aws,postgres,cs,js,git)
 
