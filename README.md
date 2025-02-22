@@ -13,8 +13,10 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,ruby,postgres,cs,js,git,docker,kubernetes,helm,argocd,jenkins,aws,terraform)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,docker,kubernetes,helm,argocd,jenkins,aws,terraform,ruby,postgres,cs,js,git)
+
+
 
 
 
