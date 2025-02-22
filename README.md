@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohammed (Momo)</h1>
-<h3 align="center">A passionate web developer from Switzerland</h3>
-
-- 🌱 I'm constantly working on improving my skills.
-
-- 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
-
-- 🌎 I speak **English and French fluently, and have an intermediate level of German.**
-
+<h1 align="center">Hi there 👋, I am Mohammed </h1>
+---
+A Software Developer with experience in building scalable
+systems, APIs, and micro-services, combined with DevOps expertise in
+Kubernetes, CI/CD pipelines, containerization, cloud platforms, and
+Infrastructure as Code (IaC)
+---
 <h2 align="left">Connect with me:</h2>
 
 [![Connect with me:](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-elabdi/)
