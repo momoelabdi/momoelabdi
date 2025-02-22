@@ -8,7 +8,7 @@ Infrastructure as Code (IaC)
 
 ---
 
-#### How to reach me:
+#### Connect with me:
 [![Connect with me:](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-elabdi/)
 
 ---
