@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed (Momo)</h1>
 <h3 align="center">A passionate web developer from Switzerland</h3>
 
-- 🔭 I am currently engaged to work on an innovative project that I am excited about.
-
 - 🌱 I'm constantly working on improving my skills.
 
 - 📫 How to reach me [momo.elabdi@bluewin.ch](momo.elabdi@bluewin.ch)
