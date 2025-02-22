@@ -9,7 +9,7 @@
 
 <h2 align="left">Connect with me:</h2>
 
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)]([https://mylinkedin](https://www.linkedin.com/in/mohammed-elabdi/))
+[![Connect with me:](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/mohammed-elabdi/)
 
 <h3 align="left">Languages and Tools:</h3>
 
