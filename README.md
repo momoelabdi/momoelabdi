@@ -1,9 +1,12 @@
 <h1 align="center">Hi there 👋, I am Mohammed </h1>
+
 ---
+
 A Software Developer with experience in building scalable
 systems, APIs, and micro-services, combined with DevOps expertise in
 Kubernetes, CI/CD pipelines, containerization, cloud platforms, and
 Infrastructure as Code (IaC)
+
 ---
 <h2 align="left">Connect with me:</h2>
 
