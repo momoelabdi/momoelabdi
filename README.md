@@ -7,7 +7,9 @@
 
 - 🌎 I speak **English and French fluently, and have an intermediate level of German.**
 
-Connect with me: [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://mylinkedin)
+<h2 align="left">Connect with me:</h2>
+
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)]([https://mylinkedin](https://www.linkedin.com/in/mohammed-elabdi/))
 
 <h3 align="left">Languages and Tools:</h3>
 
