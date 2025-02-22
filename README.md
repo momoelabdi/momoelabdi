@@ -7,7 +7,7 @@
 
 - 🌎 I speak **English and French fluently, and have an intermediate level of German.**
 
-[Connect with me: ![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://mylinkedin)
+Connect with me: [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://mylinkedin)
 
 <h3 align="left">Languages and Tools:</h3>
 
